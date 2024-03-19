@@ -4,7 +4,7 @@ Este é um projeto de classificação de doenças cardíacas usando técnicas de
 
 ## Visão Geral
 
-Neste projeto, exploramos um conjunto de dados contendo informações de pacientes, incluindo fatores de risco, sintomas e resultados de testes médicos. Utilizamos algoritmos de aprendizado de máquina para construir modelos que possam prever se um paciente tem ou não uma doença cardíaca.
+Neste projeto, explorei um conjunto de dados contendo informações de pacientes, incluindo fatores de risco, sintomas e resultados de testes médicos. Utilizei algoritmos de aprendizado de máquina para construir modelos que possam prever se um paciente tem ou não uma doença cardíaca.
 
 ## Conjunto de Dados
 
@@ -12,7 +12,7 @@ O conjunto de dados utilizado neste projeto contém várias características cl�
 
 ## Modelos Utilizados
 
-Neste projeto, experimentamos vários algoritmos de aprendizado de máquina, incluindo:
+Neste projeto, foram utilizados vários algoritmos de aprendizado de máquina, incluindo:
 
 - Regressão Logística
 - Máquina de Vetores de Suporte (SVM)
